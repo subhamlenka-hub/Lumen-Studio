@@ -6,6 +6,7 @@ A clean, single-page website built with plain **HTML, CSS, jQuery, Bootstrap 5, 
 - **Bootstrap 5** — layout & responsive grid (via CDN)
 - **Bootstrap Icons** — icons (via CDN)
 - **jQuery 3.7** — DOM, smooth scroll, navbar shrink, form validation
+- **GSAP** — GSAP Implemented for scroll based animation 
 - **Swiper 11** — testimonial slider
 - **Fancybox 5** — portfolio image lightbox
 - **Custom CSS** — animations (reveal-on-scroll, pulse, bounce, hover effects)
